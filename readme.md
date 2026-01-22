@@ -56,7 +56,7 @@ I compared the "Actual vs. Predicted" values for both models. The Random Forest 
 ## 📜 Credits & Acknowledgements
 * **Author:** Aashish Giri
 * **Dataset Source:** [California Housing Prices on Kaggle](https://www.kaggle.com/camnugent/california-housing-prices)
-* **Inspiration:** This project was adapted from the initial exploratory analysis by [Original Kaggle User Name if known] and expanded with Random Forest optimization and detailed feature engineering.
+* **Inspiration:** This project was adapted from the initial exploratory analysis and expanded with Random Forest optimization and detailed feature engineering.
 
 ---
 **Author:** Aashish Giri | https://www.linkedin.com/in/aashish-giri-dev/
