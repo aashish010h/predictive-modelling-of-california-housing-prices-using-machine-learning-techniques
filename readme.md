@@ -30,13 +30,8 @@ The **Random Forest Regressor** significantly outperformed the baseline, proving
 #### 2. Exploratory Data Analysis (EDA)
 I visualized the geographic distribution of prices to confirm that coastal proximity is a major driver of value.
 
-![Geographic Heatmap](path_to_your_heatmap_image.png)
-*(Figure: Heatmap showing high-value clusters along the California coast)*
-
 #### 3. Model Comparison
 I compared the "Actual vs. Predicted" values for both models. The Random Forest model (right) shows a much tighter fit to the ideal diagonal line compared to the wide variance of the Linear Regression (left).
-
-![Actual vs Predicted](path_to_your_scatter_plot_image.png)
 
 ### 🚀 How to Run
 1.  Clone the repository:
